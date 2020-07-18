@@ -1,0 +1,8 @@
+name: green-function
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - numpy
+  - matplotlib
+  - scipy
